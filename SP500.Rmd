@@ -6,6 +6,9 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Source
+https://github.com/DSSMU/6306HW11/tree/master
+
 ## Set up environment
 ```{r}
 library(tseries)
